@@ -2,6 +2,8 @@
 
 Passing the FTMO Challenge is a notable achievement for any trader aiming to manage substantial capital. This challenge tests a trader's skill, discipline, and adherence to specific rules, requiring a solid understanding of strategy, risk management, and a clear trading plan. This guide covers essential points, from creating a trading plan to managing risk, along with tips for success. 
 
+![How to pass FTMO challange copy](https://github.com/user-attachments/assets/8532bec5-3e49-4cd7-b0a8-9777f5209dc3)
+
 # FTMO Challenge Trading Plan 
 
 A well-structured trading plan is very important for passing the FTMO Challenge. It should outline your preferred strategy, entry and exit rules, risk management techniques, and the types of assets you plan to trade. Your trading plan should align with FTMO’s requirements, ensuring compliance with daily loss limits and drawdown restrictions. 
